@@ -2,7 +2,7 @@
 
 **This code is the reference implementation of the following paper:**
 
-H. Sarmadi, R. Muñoz-Salinas, M. A. Berbís and R. Medina-Carnicer, "Simultaneous Multi-View Camera Pose Estimation and Object Tracking With Squared Planar Markers," in IEEE Access, vol. 7, pp. 22927-22940, 2019.
+[H. Sarmadi, R. Muñoz-Salinas, M. A. Berbís and R. Medina-Carnicer, "Simultaneous Multi-View Camera Pose Estimation and Object Tracking With Squared Planar Markers," in IEEE Access, vol. 7, pp. 22927-22940, 2019.](https://doi.org/10.1109/ACCESS.2019.2896648)
 
 ## Tested* Dependencies:
 
