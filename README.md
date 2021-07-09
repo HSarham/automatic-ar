@@ -41,11 +41,11 @@ cd automatic-ar-build
 run cmake to configure the project and generate the makefiles:
 
 ```shell
-cmake ../automatic-ar/trunk/
+cmake ../automatic-ar/
 ```
 in case cmake does not find a library you have automatically, you can manually give cmake the path to where the library's cmake configuration file exists. For example:
 ```shell
-cmake ../automatic-ar/trunk/ -DOpenCV_DIR=~/local/share/OpenCV
+cmake ../automatic-ar/ -DOpenCV_DIR=~/local/share/OpenCV
 ```
 Finally run make to build the binaries
 ```shell
