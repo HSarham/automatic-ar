@@ -53,7 +53,7 @@ make
 ```
 You will find the executables to work with in the apps directory.
 ## Sample data
-You can download sample data sets from [here](http://hsarmadi.info/public_files/automatic-ar).
+You can download sample data sets from [here](https://sarmadi.me/public_files/automatic-ar).
 
 ## Usage
 
