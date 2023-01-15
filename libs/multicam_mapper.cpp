@@ -967,8 +967,8 @@ void MultiCamMapper::obtain_transformation_derivs(const MatArrays &ma, const uco
             T(cv::Range(0,3),cv::Range(0,3)).copyTo(T_s(cv::Range(0,3),cv::Range(0,3)));
         }
         else{
-            T(cv::Range(0,3),cv::Range(3,3)).copyTo(T_a(cv::Range(0,3),cv::Range(3,3)));
-            T(cv::Range(0,3),cv::Range(3,3)).copyTo(T_s(cv::Range(0,3),cv::Range(3,3)));
+            T(cv::Range(0,3),cv::Range(3,4)).copyTo(T_a(cv::Range(0,3),cv::Range(3,4)));
+            T(cv::Range(0,3),cv::Range(3,4)).copyTo(T_s(cv::Range(0,3),cv::Range(3,4)));
         }
     }
 }
